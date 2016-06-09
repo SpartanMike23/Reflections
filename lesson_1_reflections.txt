@@ -1,0 +1,28 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+A: Viewing two different files helped me spot out what work for the previous file from the updated one. This process was made much more efficiently by using command-line. For mac you are using ‘diff’ to compare the two files. You insert the old first then new file. Command-line automatically shows the difference between the two files by using + -. By seeing the actual difference of code can be the biggest indicator of an actual bug.  
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A: I think the ability to compare and contrast you previous and your updated work is crucial in self-development of a programmer. To able to see how far your work has progress as well to see if you can end with the same result with a different approach can help you progress as a better programmer in the long run.
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+A: I think the pros of having to manually choose to commit would give the user the power of judgement. It gives the user control to dictate when a commit should be created and this helps with history control as well. The biggest con is exactly giving the user the power of judgment. The power of user control is it is subjective to the user. Perceptions can differ in other people. 
+
+Pros of having versions automatically saved would help the user incase he/she forgets to commit. Cons would be the user has no control over the commit history which can make it more difficult to find a specific version of the file you are creating.
+
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+A: It is because sometimes each multiple files can relate to each other. For instance HTML,CSS and JavaScript. Change in one of these files can affect the rest of the group therefore changes might be required in the other files. They are interdependent. 
+
+Google Docs treat each file separately because it assumes the work is independent by itself. 
+
+Q: How can you use the commands git log and git diff to view the history of files?
+A: you can use git log to see a log of all the commits created from the beginning the file was made up until the last version created. Git diff is used to see the difference between any of the commits created. 
+
+Q: How might using version control make you more confident to make changes that could break something?
+A:Version control can give you the confidence to make changes by giving you the ability to revert back to a previous version before the change was made that broke your code. “Idea of exploration”
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+A: I want to use git to become a better confident programmer. 
